@@ -1,0 +1,10 @@
+ultralytics
+opencv-python-headless
+jupyter
+notebook
+ipykernel
+matplotlib
+pandas
+numpy
+python-dotenv
+dvc
